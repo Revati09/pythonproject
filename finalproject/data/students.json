@@ -1,0 +1,64 @@
+[
+  {
+    "student_id": "STU001",
+    "name": "Sakshu",
+    "email": "sakshu@example.com",
+    "teaching_skills": [
+      "Python",
+      "Excel"
+    ],
+    "learning_skills": [
+      "Public Speaking",
+      "Graphic Design",
+      "Data Analysis"
+    ],
+    "password_salt": "89f5d24df7f92a4878bb3b18e307e6da",
+    "password_hash": "53263bb9d86e35f94fe0177716882444b0a8922234e3faf6706528d21b2b5622"
+  },
+  {
+    "student_id": "STU002",
+    "name": "Vaishnavi",
+    "email": "vaishnavi@example.com",
+    "teaching_skills": [
+      "Public Speaking",
+      "Graphic Design"
+    ],
+    "learning_skills": [
+      "Python",
+      "Excel"
+    ],
+    "password_salt": "1852fc43a8a3ee6c9c2ed405793bf648",
+    "password_hash": "991282787adced8ac7b184cf57c4e49212d896c2b16eec90f05125d0aceef9e4"
+  },
+  {
+    "student_id": "STU003",
+    "name": "Anjali",
+    "email": "anjali@gmail.com",
+    "teaching_skills": [
+      "Java",
+      "Data Analysis"
+    ],
+    "learning_skills": [
+      "UI/UX Design",
+      "Public Speaking",
+      "Excel"
+    ],
+    "password_salt": "3f3726f6d34841bc5c12b56a862589ce",
+    "password_hash": "e933a3ccd8c86da4c7ea2fb624e3f3bd5f804bb9d6ee9c0525b4a47273329b74"
+  },
+  {
+    "student_id": "STU004",
+    "name": "Revati",
+    "email": "revati@example.com",
+    "teaching_skills": [
+      "UI/UX Design",
+      "Public Speaking"
+    ],
+    "learning_skills": [
+      "Java",
+      "Data Analysis"
+    ],
+    "password_salt": "f248ec84bc96499e56abcc5d87f8b571",
+    "password_hash": "19e1dfd861de1c6893f6e97a235916a6ea6cfba400f1ecf7d66eafa9f4dec116"
+  }
+]

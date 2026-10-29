@@ -1,0 +1,62 @@
+[
+  {
+    "session_id": "DEMO-001",
+    "teacher_id": "STU001",
+    "learner_id": "STU002",
+    "skill": "Python",
+    "session_date": "2026-10-24",
+    "status": "Completed",
+    "feedback": "Clear explanations and useful practice exercises.",
+    "rating": 5
+  },
+  {
+    "session_id": "DEMO-002",
+    "teacher_id": "STU002",
+    "learner_id": "STU001",
+    "skill": "Graphic Design",
+    "session_date": "2026-10-25",
+    "status": "Completed",
+    "feedback": "Learned the basics of layout and color.",
+    "rating": 4
+  },
+  {
+    "session_id": "DEMO-003",
+    "teacher_id": "STU003",
+    "learner_id": "STU001",
+    "skill": "Data Analysis",
+    "session_date": "2026-10-30",
+    "status": "Planned",
+    "feedback": "",
+    "rating": null
+  },
+  {
+    "session_id": "DEMO-004",
+    "teacher_id": "STU001",
+    "learner_id": "STU003",
+    "skill": "Excel",
+    "session_date": "2026-10-31",
+    "status": "Planned",
+    "feedback": "",
+    "rating": null
+  },
+  {
+    "session_id": "DEMO-005",
+    "teacher_id": "STU003",
+    "learner_id": "STU004",
+    "skill": "Java",
+    "session_date": "2026-11-01",
+    "status": "Planned",
+    "feedback": "",
+    "rating": null
+  },
+  {
+    "session_id": "DEMO-006",
+    "teacher_id": "STU004",
+    "learner_id": "STU003",
+    "skill": "UI/UX Design",
+    "session_date": "2026-11-02",
+    "status": "Planned",
+    "feedback": "",
+    "rating": null
+  }
+]
